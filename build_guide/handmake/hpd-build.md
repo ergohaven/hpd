@@ -151,11 +151,12 @@
 
 **Диод** — маленькая деталь с двумя ногами: **анодом** и **катодом**. Сторона с чёрной полоской — катод. Это важно: если поставить диод задом наперёд, клавиша не будет работать.
 
-<a href="images/trimmed-diode-legs-final.jpg"><img src="images/trimmed-diode-legs-final.jpg" width="300" alt="Диоды с обрезанными ножками"/></a>
+
+<a href="images/trimmed-diode-legs-new.jpg"><img src="images/trimmed-diode-legs-new.jpg" width="300" alt="Диоды с обрезанными ножками"/></a>
 
 *📸 Диоды 1N4148 с обрезанными ножками*
 
-<a href="images/diodes-bent-leg-final.jpg"><img src="images/diodes-bent-leg-final.jpg" width="300" alt="Диоды с подогнутой ногой"/></a>
+<a href="images/diodes-bent-leg-new.jpg"><img src="images/diodes-bent-leg-new.jpg" width="300" alt="Диоды с подогнутой ногой"/></a>
 
 *📸 Диоды 1N4148 с подогнутой ногой*
 
