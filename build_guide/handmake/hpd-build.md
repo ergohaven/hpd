@@ -50,7 +50,7 @@
 
 <a href="https://images.dip8.ru/m/2cebc8aad66e951e9da454e98e458d1e.jpg"><img src="https://images.dip8.ru/m/2cebc8aad66e951e9da454e98e458d1e.jpg" width="300" alt="Контроллер RP2040-Zero"/></a>
 
-*Фото 1. Контроллер RP2040-Zero*
+*📸Контроллер RP2040-Zero*
 </details>
 
 ---
@@ -158,15 +158,15 @@
 
 <a href="images/prep-1.png"><img src="images/prep-1.png" width="300" alt="Hot-swap сокет и свитч перед установкой"/></a>
 
-*Фото 2. Hot-swap сокет и свитч — до установки*
+*📸Hot-swap сокет и свитч — до установки*
 
 <a href="images/prep-2.png"><img src="images/prep-2.png" width="300" alt="Свитчи установлены в корпус"/></a>
 
-*Фото 3. Свитчи вставлены в корпус*
+*📸Свитчи вставлены в корпус*
 
 <a href="images/prep-3.png"><img src="images/prep-3.png" width="300" alt="Hot-swap сокеты установлены на свитчи в корпусе"/></a>
 
-*Фото 4. Сокеты надеты на свитчи — готово к пайке*
+*📸Сокеты надеты на свитчи — готово к пайке*
 </details>
 
 <details>
@@ -187,19 +187,19 @@
 
 <a href="images/columns-rows-1.png"><img src="images/columns-rows-1.png" width="300" alt="Подготовка hot-swap сокетов перед пайкой столбцов и строк"/></a>
 
-*Фото 5. Залуженные сокеты — готовы к пайке столбцов*
+*📸Залуженные сокеты — готовы к пайке столбцов*
 
 <a href="images/columns-rows-2.png"><img src="images/columns-rows-2.png" width="300" alt="Припайка подготовленных штырьков к левым контактам hot-swap сокетов"/></a>
 
-*Фото 6. Штырьки от диодов припаяны к левым контактам сокетов*
+*📸Штырьки от диодов припаяны к левым контактам сокетов*
 
 <a href="images/columns-rows-3.png"><img src="images/columns-rows-3.png" width="300" alt="Пайка диодов по строкам справа налево"/></a>
 
-*Фото 7. Диоды припаяны по строкам справа налево*
+*📸Диоды припаяны по строкам справа налево*
 
 <a href="images/columns-rows-4.png"><img src="images/columns-rows-4.png" width="300" alt="Нюанс соединения катодов между собой"/></a>
 
-*Фото 8. Катоды соединены между собой — строка замкнута*
+*📸Катоды соединены между собой — строка замкнута*
 </details>
 
 <details>
@@ -284,35 +284,35 @@ RP2040-Zero — это мозг клавиатуры. Сейчас нужно с
 
 <a href="images/rp-zero-pinout.png"><img src="images/rp-zero-pinout.png" width="300" alt="Распиновка RP2040-Zero — номера пинов"/></a>
 
-*Фото 9. Распиновка RP2040-Zero — какой пин за что отвечает*
+*📸Распиновка RP2040-Zero — какой пин за что отвечает*
 
 <a href="images/rp-zero-wires-start.png"><img src="images/rp-zero-wires-start.png" width="300" alt="Начало пайки проводов к контроллеру"/></a>
 
-*Фото 10. Первые провода припаяны к контроллеру*
+*📸Первые провода припаяны к контроллеру*
 
 <a href="images/rp-zero-wires-keyboard.png"><img src="images/rp-zero-wires-keyboard.png" width="300" alt="Провода подключены к столбцам и рядам"/></a>
 
-*Фото 11. Все провода столбцов и рядов подключены*
+*📸Все провода столбцов и рядов подключены*
 
 <a href="images/rp-zero-installed.png"><img src="images/rp-zero-installed.png" width="300" alt="Контроллер установлен в корпус"/></a>
 
-*Фото 12. Контроллер размещён в корпусе*
+*📸Контроллер размещён в корпусе*
 
 <a href="images/usb-c-adapter.png"><img src="images/usb-c-adapter.png" width="300" alt="USB Type-C адаптер — вид до пайки"/></a>
 
-*Фото 13. USB Type-C адаптер до подключения проводов*
+*📸USB Type-C адаптер до подключения проводов*
 
 <a href="images/usb-c-wires.png"><img src="images/usb-c-wires.png" width="300" alt="Провода припаяны к USB Type-C адаптеру"/></a>
 
-*Фото 14. Провода VCC, GND, D−, D+ припаяны к USB адаптеру*
+*📸Провода VCC, GND, D−, D+ припаяны к USB адаптеру*
 
 <a href="images/usb-c-rp-zero-connected.png"><img src="images/usb-c-rp-zero-connected.png" width="300" alt="USB адаптер подключён к контроллеру"/></a>
 
-*Фото 15. USB адаптер подключён к RP-ZERO*
+*📸USB адаптер подключён к RP-ZERO*
 
 <a href="images/rp-zero-resistor-complete.png"><img src="images/rp-zero-resistor-complete.png" width="300" alt="Итоговый вид: резистор и все провода припаяны"/></a>
 
-*Фото 16. Готово: резистор и все провода на месте*
+*📸Готово: резистор и все провода на месте*
 
 </details>
 
@@ -346,11 +346,11 @@ RP2040-Zero — это мозг клавиатуры. Сейчас нужно с
 
 <a href="images/firmware-test-bare.jpg"><img src="images/firmware-test-bare.jpg" width="300" alt="Обе половинки клавиатуры без кейкапов перед тестом"/></a>
 
-*Фото 17. Обе половинки без кейкапов — готовы к тесту*
+*📸Обе половинки без кейкапов — готовы к тесту*
 
 <a href="images/firmware-test-wired.jpg"><img src="images/firmware-test-wired.jpg" width="300" alt="Обе половинки с подключёнными проводами во время теста"/></a>
 
-*Фото 18. Подключено к компьютеру — идёт проверка клавиш*
+*📸Подключено к компьютеру — идёт проверка клавиш*
 
 </details>
 
