@@ -208,6 +208,8 @@
 
 </details>
 
+---
+
 <details>
 <summary><strong>1. Подготовка перед пайкой</strong></summary>
 
@@ -242,6 +244,8 @@
 *📸Сокеты надеты на свитчи — готово к пайке*
 </details>
 
+---
+
 <details>
 <summary><strong>2. Пайка столбцов и строк</strong></summary>
 
@@ -274,6 +278,8 @@
 
 *📸Катоды соединены между собой — строка замкнута*
 </details>
+
+---
 
 <details>
 <summary><strong>3. Подготовка и пайка контроллера RP-ZERO</strong></summary>
@@ -388,6 +394,8 @@ RP2040-Zero — это мозг клавиатуры. Сейчас нужно с
 *📸Готово: резистор и все провода на месте*
 
 </details>
+
+---
 
 <details>
 <summary><strong>4. Проверка работоспособности</strong></summary>
