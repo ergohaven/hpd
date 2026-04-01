@@ -43,7 +43,9 @@
 
 Важно не перепутать с другими платами похожего размера — нужен именно **RP2040-Zero**.
 
-**Изображение:** добавить позже.
+<a href="images/rp2040-zero-component.jpg"><img src="images/rp2040-zero-component.jpg" width="300" alt="Контроллер RP2040-Zero"/></a>
+
+*📸 Контроллер RP2040-Zero*
 </details>
 
 <div style="height: 5px; background-color: #ccc; margin: 40px 0;"></div>
@@ -64,6 +66,10 @@
 Диоды нужны, чтобы клавиатура правильно распознавала одновременные нажатия нескольких клавиш. Без них при нажатии нескольких кнопок сразу устройство будет путаться.
 
 Устанавливаются строго в одну сторону — на корпусе есть чёрная полоска, которая указывает правильное направление.
+
+<a href="images/diode-1n4148-pinout.jpg"><img src="images/diode-1n4148-pinout.jpg" width="300" alt="Диод 1N4148 — распиновка"/></a>
+
+*📸 Диод 1N4148 — анод и катод*
 </details>
 
 <div style="height: 5px; background-color: #ccc; margin: 40px 0;"></div>
@@ -84,6 +90,10 @@
 Свитчи — это переключатели под каждой клавишей. Именно они создают ощущение нажатия: щелчок, мягкость или тихость — всё зависит от типа.
 
 Подходят **Outemu** или **Gateron**. Выбирай по вкусу.
+
+<a href="images/switch-outemu-silent-tom.jpg"><img src="images/switch-outemu-silent-tom.jpg" width="300" alt="Свитч Outemu Silent Tom"/></a>
+
+*📸 Свитч Outemu Silent Tom*
 </details>
 
 <div style="height: 5px; background-color: #ccc; margin: 40px 0;"></div>
