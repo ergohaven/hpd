@@ -28,7 +28,7 @@
 |---|
 | Не спеши. Собрать аккуратно с первого раза — лучше, чем переделывать потом. |
 
-<div style="height: 5px; background-color: #ccc; margin: 40px 0;"></div>
+---
 
 ## Компоненты
 
@@ -53,7 +53,7 @@
 *📸Контроллер RP2040-Zero*
 </details>
 
----
+<div style="height: 5px; background-color: #ccc; margin: 40px 0;"></div>
 
 <details>
 <summary><strong>🔌 USB Type-C разъём — 2 шт.</strong></summary>
@@ -65,7 +65,7 @@
 **Изображение:** добавить позже.
 </details>
 
----
+<div style="height: 5px; background-color: #ccc; margin: 40px 0;"></div>
 
 <details>
 <summary><strong>⚡ Диоды 1N4148 — 60 шт.</strong></summary>
@@ -77,7 +77,7 @@
 **Изображение:** добавить позже.
 </details>
 
----
+<div style="height: 5px; background-color: #ccc; margin: 40px 0;"></div>
 
 <details>
 <summary><strong>🔩 Hot-swap сокеты — 60 шт.</strong></summary>
@@ -89,7 +89,7 @@
 **Изображение:** добавить позже.
 </details>
 
----
+<div style="height: 5px; background-color: #ccc; margin: 40px 0;"></div>
 
 <details>
 <summary><strong>🎹 Свитчи — 60 шт.</strong></summary>
@@ -101,7 +101,7 @@
 **Изображение:** добавить позже.
 </details>
 
----
+<div style="height: 5px; background-color: #ccc; margin: 40px 0;"></div>
 
 <details>
 <summary><strong>🪛 Провода — моток ~0,5 м</strong></summary>
@@ -113,7 +113,7 @@
 **Изображение:** добавить позже.
 </details>
 
----
+<div style="height: 5px; background-color: #ccc; margin: 40px 0;"></div>
 
 <details>
 <summary><strong>🔬 Резисторы от 1 до 100 кОм — 2 шт.</strong></summary>
@@ -126,7 +126,7 @@
 </details>
 
 
----
+<div style="height: 5px; background-color: #ccc; margin: 40px 0;"></div>
 
 <details>
 <summary><strong>🔩 Винт М3×5 — 10 шт.</strong></summary>
@@ -139,7 +139,7 @@
 
 </details>
 
----
+<div style="height: 5px; background-color: #ccc; margin: 40px 0;"></div>
 
 <details>
 <summary><strong>🔧 Термовставки М3 — 10 шт.</strong></summary>
@@ -152,7 +152,7 @@
 
 </details>
 
-<div style="height: 5px; background-color: #ccc; margin: 40px 0;"></div>
+---
 
 ## Инструменты
 
@@ -164,7 +164,7 @@
 - Кусачки / бокорезы
 - Отвёртка
 
-<div style="height: 5px; background-color: #ccc; margin: 40px 0;"></div>
+---
 
 ## Порядок сборки
 
@@ -208,7 +208,7 @@
 
 </details>
 
----
+<div style="height: 5px; background-color: #ccc; margin: 40px 0;"></div>
 
 <details>
 <summary><strong>1. Подготовка перед пайкой</strong></summary>
@@ -244,7 +244,7 @@
 *📸Сокеты надеты на свитчи — готово к пайке*
 </details>
 
----
+<div style="height: 5px; background-color: #ccc; margin: 40px 0;"></div>
 
 <details>
 <summary><strong>2. Пайка столбцов и строк</strong></summary>
@@ -279,14 +279,14 @@
 *📸Катоды соединены между собой — строка замкнута*
 </details>
 
----
+<div style="height: 5px; background-color: #ccc; margin: 40px 0;"></div>
 
 <details>
 <summary><strong>3. Подготовка и пайка контроллера RP-ZERO</strong></summary>
 
 RP2040-Zero — это мозг клавиатуры. Сейчас нужно соединить его проводами с горячими сокетами и USB-разъёмом. Звучит сложно, но здесь всё чётко: каждый провод идёт на конкретный пин. Просто следуй схеме.
 
----
+<div style="height: 5px; background-color: #ccc; margin: 40px 0;"></div>
 
 #### Столбцы (вертикальные линии клавиш)
 
@@ -308,7 +308,7 @@ RP2040-Zero — это мозг клавиатуры. Сейчас нужно с
 | 11, 10, 9, 8 | —      |
 | 7           | 6       |
 
----
+<div style="height: 5px; background-color: #ccc; margin: 40px 0;"></div>
 
 #### Ряды (горизонтальные линии клавиш)
 
@@ -324,7 +324,7 @@ RP2040-Zero — это мозг клавиатуры. Сейчас нужно с
 | 3           | 4   |
 | 2           | 5   |
 
----
+<div style="height: 5px; background-color: #ccc; margin: 40px 0;"></div>
 
 #### Подключение USB
 
@@ -348,7 +348,7 @@ RP2040-Zero — это мозг клавиатуры. Сейчас нужно с
 | D−          | 1           |
 | D+          | 0           |
 
----
+<div style="height: 5px; background-color: #ccc; margin: 40px 0;"></div>
 
 #### Резистор
 
@@ -395,7 +395,7 @@ RP2040-Zero — это мозг клавиатуры. Сейчас нужно с
 
 </details>
 
----
+<div style="height: 5px; background-color: #ccc; margin: 40px 0;"></div>
 
 <details>
 <summary><strong>4. Проверка работоспособности</strong></summary>
@@ -423,7 +423,7 @@ RP2040-Zero — это мозг клавиатуры. Сейчас нужно с
 
 </details>
 
----
+<div style="height: 5px; background-color: #ccc; margin: 40px 0;"></div>
 
 <a href="images/firmware-test-bare.jpg"><img src="images/firmware-test-bare.jpg" width="300" alt="Обе половинки клавиатуры без кейкапов перед тестом"/></a>
 
@@ -437,7 +437,7 @@ RP2040-Zero — это мозг клавиатуры. Сейчас нужно с
 
 
 
-<div style="height: 5px; background-color: #ccc; margin: 40px 0;"></div>
+---
 
 ## Модули
 
@@ -446,7 +446,7 @@ RP2040-Zero — это мозг клавиатуры. Сейчас нужно с
 
 - 
 
-<div style="height: 5px; background-color: #ccc; margin: 40px 0;"></div>
+---
 
 ## Проверка после сборки
 
@@ -457,7 +457,7 @@ RP2040-Zero — это мозг клавиатуры. Сейчас нужно с
 - убедиться, что устройство корректно подключается;
 - выполнить базовую проверку функций.
 
-<div style="height: 5px; background-color: #ccc; margin: 40px 0;"></div>
+---
 
 ## Заметки для финального наполнения
 
