@@ -100,4 +100,4 @@ The files in this repository are licensed under a Creative Commons Attribution-N
 [2]: https://github.com/ergohaven/vial-qmk/tree/vial/keyboards/ergohaven
 
 ## Availability
-The complete keyboard (not a diy kit!) is available for purchase at [ergohaven.xyz](https://ergohaven.xyz/shop)
+The complete keyboard (not a diy kit!) is available for purchase at [ergohaven.xyz](https://eh.industries/)
