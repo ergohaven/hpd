@@ -32,7 +32,7 @@ PCB and schematic can be found [here](https://oshwlab.com/yuriiq/hpdv2)
 | Components | Quantity (pcs) |
 | --- | ---: |
 | Switchplate + thumb keys + MCU holder PCBs | 1 |
-| RP2040 Zero MCU | 2 |
+| RP2040 MCU | 2 |
 | MX Hotswap sockets | 60 |
 | 1N4148W Diodes (SOD-123) | 60 |
 | Male Pin Header Connector: 11 Pins, 2.54mm, 90 degree | 2 |
