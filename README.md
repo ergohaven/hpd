@@ -12,7 +12,7 @@ This keyboard was designed with FDM printing in mind, the goal was to create a p
 ## Features
 - Modular, ergonomic 3D design
 - 60 fully programmable keys, 15 additional layers for all your tasks
-- Powered by RP2040 and QMK firmware
+- Powered by RP2040 Zero and QMK firmware
 - Hotswappable PCB (MX sockets) 
 - Type-C output for connection between halves
 - Easily remap any key and customize your keyboard with [Vial](https://eh.industries/vial) 
@@ -32,7 +32,7 @@ PCB and schematic can be found [here](https://oshwlab.com/yuriiq/hpdv2)
 | Components | Quantity (pcs) |
 | --- | ---: |
 | Switchplate + thumb keys + MCU holder PCBs | 1 |
-| RP2040 MCU | 2 |
+| RP2040 Zero MCU | 2 |
 | MX Hotswap sockets | 60 |
 | 1N4148W Diodes (SOD-123) | 60 |
 | Male Pin Header Connector: 11 Pins, 2.54mm, 90 degree | 2 |
@@ -92,7 +92,8 @@ PCB and schematic can be found [here](https://oshwlab.com/yuriiq/hpdv2)
 | Magnets (5х10х2mm) | 2 |
 | 3M bumpons (8mm) | 2 |
 | 38mm billiard ball | 1 |
-| Ceramic Bearing Balls (3mm) | 3 |
+| bearings (6x2.5mm) | 3 |
+| screws (M3x8) | 3 |
 
 
 ## License 
