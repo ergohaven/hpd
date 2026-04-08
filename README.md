@@ -29,22 +29,24 @@ PCB and schematic can be found [here](https://oshwlab.com/yuriiq/hpdv2)
 
 ### BOM
 #### Main case
-- Switchplate + thumb keys + MCU holder PCBs
-- 2   RP2040 Zero MCU
-- 60 MX Hotswap sockets
-- 60 1N4148W Diodes (SOD-123)
-- 2   Male Pin Header Connector: 11 Pins, 2.54mm, 90 degree
-- 2   Female Header Sockets: 11 Pins, 2.54mm, 90 degree
-- 2   Female Header Sockets: 9 Pins, 2.54mm, 90 degree
-- 4   Socket SH1.0 5 Pins, 1.00mm
-- 2   Cable connector SH1.0 5 Pins, 1mm, 100mm, double head
-- 2   1 - 100 kOhm resistors (0805)
-- 2   USB Type-C daughterboard: 1.6mm thick
-- 32 M2x4 Screws
-- 10 M3x5 Inserts
-- 10 M3x4 Screws
-- 4 Magnets (5х10х2mm)
-- 4 3M bumpons (8mm)
+| Components | Quantity (pcs) |
+| --- | ---: |
+| Switchplate + thumb keys + MCU holder PCBs | 1 |
+| RP2040 Zero MCU | 2 |
+| MX Hotswap sockets | 60 |
+| 1N4148W Diodes (SOD-123) | 60 |
+| Male Pin Header Connector: 11 Pins, 2.54mm, 90 degree | 2 |
+| Female Header Sockets: 11 Pins, 2.54mm, 90 degree | 2 |
+| Female Header Sockets: 9 Pins, 2.54mm, 90 degree | 2 |
+| Socket SH1.0 5 Pins, 1.00mm | 4 |
+| Cable connector SH1.0 5 Pins, 1mm, 100mm, double head | 2 |
+| 1 - 100 kOhm resistors (0805) | 2 |
+| USB Type-C daughterboard: 1.6mm thick | 2 |
+| M2x4 Screws | 32 |
+| M3x5 Inserts | 10 |
+| M3x4 Screws | 10 |
+| Magnets (5х10х2mm) | 4 |
+| 3M bumpons (8mm) | 4 |
 
 #### Encoder module
 - Encoder PCB
