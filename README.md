@@ -15,7 +15,7 @@ This keyboard was designed with FDM printing in mind, the goal was to create a p
 - Powered by RP2040 Zero and QMK firmware
 - Hotswappable PCB (MX sockets) 
 - Type-C output for connection between halves
-- Easily remap any key and customize your keyboard with [Vial](https://get.vial.today/) 
+- Easily remap any key and customize your keyboard with [Vial](https://eh.industries/vial) 
 - [Firmware](https://github.com/ergohaven/keymap_hub) is being constantly updated, get the latest QMK features for your keyboard from us ♥️  
 
 ![HPD v2](images/04.png)
@@ -29,63 +29,71 @@ PCB and schematic can be found [here](https://oshwlab.com/yuriiq/hpdv2)
 
 ### BOM
 #### Main case
-- Switchplate + thumb keys + MCU holder PCBs
-- 2   RP2040 Zero MCU
-- 60 MX Hotswap sockets
-- 60 1N4148W Diodes (SOD-123)
-- 2   Male Pin Header Connector: 11 Pins, 2.54mm, 90 degree
-- 2   Female Header Sockets: 11 Pins, 2.54mm, 90 degree
-- 2   Female Header Sockets: 9 Pins, 2.54mm, 90 degree
-- 4   Socket SH1.0 5 Pins, 1.00mm
-- 2   Cable connector SH1.0 5 Pins, 1mm, 100mm, double head
-- 2   1 - 100 kOhm resistors (0805)
-- 2   USB Type-C daughterboard: 1.6mm thick
-- 32 M2x4 Screws
-- 10 M3x5 Inserts
-- 10 M3x4 Screws
-- 4 Magnets (5х10х2mm)
-- 4 3M bumpons (8mm)
+| Components | Quantity (pcs) |
+| --- | ---: |
+| Switchplate + thumb keys + MCU holder PCBs | 1 |
+| RP2040 Zero MCU | 2 |
+| MX Hotswap sockets | 60 |
+| 1N4148W Diodes (SOD-123) | 60 |
+| Male Pin Header Connector: 11 Pins, 2.54mm, 90 degree | 2 |
+| Female Header Sockets: 11 Pins, 2.54mm, 90 degree | 2 |
+| Female Header Sockets: 9 Pins, 2.54mm, 90 degree | 2 |
+| Socket SH1.0 5 Pins, 1.00mm | 4 |
+| Cable connector SH1.0 5 Pins, 1mm, 100mm, double head | 2 |
+| 1 - 100 kOhm resistors (0805) | 2 |
+| USB Type-C daughterboard: 1.6mm thick | 2 |
+| M2x4 Screws | 32 |
+| M3x5 Inserts | 10 |
+| M3x4 Screws | 10 |
+| Magnets (5х10х2mm) | 4 |
+| 3M bumpons (8mm) | 4 |
 
 #### Encoder module
-- Encoder PCB
-- 1 Encoder EC11
-- 1 Encoder cap
-- 1 Male Pin Header Connector: 9 Pins, 2.54mm, 90 degree
-- 1 1N4148W Diodes (SOD-123)
-- 1 LED SK6812 mini-e
-- 2 Magnets (5х10х2mm)
-- 2 3M bumpons (8mm)
+| Components | Quantity (pcs) |
+| --- | ---: |
+| Encoder PCB | 1 |
+| Encoder EC11 | 1 |
+| Encoder cap | 1 |
+| Male Pin Header Connector: 9 Pins, 2.54mm, 90 degree | 1 |
+| 1N4148W Diodes (SOD-123) | 1 |
+| LED SK6812 mini-e | 1 |
+| Magnets (5х10х2mm) | 2 |
+| 3M bumpons (8mm) | 2 |
 
 #### Touchpad module
-- Touchpad PCB
-- 1 Azoteq TPS43
-- 1 Male Pin Header Connector: 9 Pins, 2.54mm, 90 degree
-- 1 Connector PH2.0 4 pins, 2mm, 90 degree
-- 1 Cable connector PH2.0 4 Pins, 2mm, 6mm, one head
-- 2 Magnets (5х10х2mm)
-- 1 plate 40x43x1 mm with rounding 3mm
-- 1 PVC 40x43 mm sticker with rounding 3mm
-- 2 3M bumpons (8mm)
+| Components | Quantity (pcs) |
+| --- | ---: |
+| Touchpad PCB | 1 |
+| Azoteq TPS43 | 1 |
+| Male Pin Header Connector: 9 Pins, 2.54mm, 90 degree | 1 |
+| Connector PH2.0 4 pins, 2mm, 90 degree | 1 |
+| Cable connector PH2.0 4 Pins, 2mm, 6mm, one head | 1 |
+| Magnets (5х10х2mm) | 2 |
+| plate 40x43x1 mm with rounding 3mm | 1 |
+| PVC 40x43 mm sticker with rounding 3mm | 1 |
+| 3M bumpons (8mm) | 2 |
 
 
 #### Trackball module
-- Trackball PCB
-- 1 PWM3389 sensor
-- 1 TPS73601DBVR
-- 1 Male Pin Header Connector: 9 Pins, 2.54mm, 90 degree
-- 1 Resistor 0805 10 kOm
-- 1 Resistor 0805 39 Om
-- 1 Resistor 0805 37.4 kOm
-- 1 Resistor 0805 63.4 kOm
-- 3 Capacitor 0805 100 nF
-- 1 Capacitor 0805 1 uF
-- 1 Capacitor 0805 4.7 uF
-- 1 Capacitor 0805 10 uF
-- 2 Magnets (5х10х2mm)
-- 2 3M bumpons (8mm)
-- 38mm billiard ball
-- 3 bearings (6x2.5mm)
-- 3 screws (M3x8)
+| Components | Quantity (pcs) |
+| --- | ---: |
+| Trackball PCB | 1 |
+| PWM3389 sensor | 1 |
+| TPS73601DBVR | 1 |
+| Male Pin Header Connector: 9 Pins, 2.54mm, 90 degree | 1 |
+| Resistor 0805 10 kOm | 1 |
+| Resistor 0805 39 Om | 1 |
+| Resistor 0805 37.4 kOm | 1 |
+| Resistor 0805 63.4 kOm | 1 |
+| Capacitor 0805 100 nF | 3 |
+| Capacitor 0805 1 uF | 1 |
+| Capacitor 0805 4.7 uF | 1 |
+| Capacitor 0805 10 uF | 1 |
+| Magnets (5х10х2mm) | 2 |
+| 3M bumpons (8mm) | 2 |
+| 38mm billiard ball | 1 |
+| bearings (6x2.5mm) | 3 |
+| screws (M3x8) | 3 |
 
 
 ## License 
@@ -100,4 +108,4 @@ The files in this repository are licensed under a Creative Commons Attribution-N
 [2]: https://github.com/ergohaven/vial-qmk/tree/vial/keyboards/ergohaven
 
 ## Availability
-The complete keyboard (not a diy kit!) is available for purchase at [ergohaven.xyz](https://ergohaven.xyz/shop)
+The complete keyboard (not a diy kit!) is available for purchase at [eh.industries](https://eh.industries/)
