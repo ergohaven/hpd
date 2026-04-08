@@ -15,7 +15,7 @@ This keyboard was designed with FDM printing in mind, the goal was to create a p
 - Powered by RP2040 Zero and QMK firmware
 - Hotswappable PCB (MX sockets) 
 - Type-C output for connection between halves
-- Easily remap any key and customize your keyboard with [Vial](https://get.vial.today/) 
+- Easily remap any key and customize your keyboard with [Vial](https://eh.industries/vial) 
 - [Firmware](https://github.com/ergohaven/keymap_hub) is being constantly updated, get the latest QMK features for your keyboard from us ♥️  
 
 ![HPD v2](images/04.png)
