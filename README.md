@@ -92,8 +92,7 @@ PCB and schematic can be found [here](https://oshwlab.com/yuriiq/hpdv2)
 | Magnets (5х10х2mm) | 2 |
 | 3M bumpons (8mm) | 2 |
 | 38mm billiard ball | 1 |
-| bearings (6x2.5mm) | 3 |
-| screws (M3x8) | 3 |
+| Ceramic Bearing Balls (3mm) | 3 |
 
 
 ## License 
