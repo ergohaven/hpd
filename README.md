@@ -12,7 +12,7 @@ This keyboard was designed with FDM printing in mind, the goal was to create a p
 ## Features
 - Modular, ergonomic 3D design
 - 60 fully programmable keys, 15 additional layers for all your tasks
-- Powered by RP2040 Zero and QMK firmware
+- Powered by RP2040 and QMK firmware
 - Hotswappable PCB (MX sockets) 
 - Type-C output for connection between halves
 - Easily remap any key and customize your keyboard with [Vial](https://eh.industries/vial) 
