@@ -34,7 +34,7 @@
 | 3M bumpons (8mm) | 4 |
 | Провод одножильный | ~1 метр |
 
-![image](images/hpd_hw_bg_01.png)
+![image](images/hpd_hw_bg_01.png "Компоненты")
 
 ---
 
@@ -55,15 +55,15 @@
 
 Первым делом нужно распечатать корпус клавиатуры и очистить его от поддержек
 
-<img src="images/hpd_hw_bg_01.jpg" alt="Hot-swap сокет и свитч перед установкой" />
+![image](images/hpd_hw_bg_02.png)
 
 Далее, вплавим латунные вставки (по 5 штук на каждую половинку)
 
-<img src="images/prep-2.png" alt="Свитчи установлены в корпус" />
+![image](images/hpd_hw_bg_02.png)
 
 Установим свитчи в половинки
 
-<img src="images/prep-3.png" alt="Hot-swap сокеты установлены на свитчи в корпусе" />
+![image](images/hpd_hw_bg_02.png)
 
 Вставим хотсвапы на свитчи
 
