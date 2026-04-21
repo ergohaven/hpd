@@ -59,15 +59,15 @@
 
 Далее, вплавим латунные вставки (по 5 штук на каждую половинку)
 
-![image](images/hpd_hw_bg_02.png)
+![image](images/hpd_hw_bg_03.png)
 
 Установим свитчи в половинки
 
-![image](images/hpd_hw_bg_02.png)
+![image](images/hpd_hw_bg_04.png)
 
 Вставим хотсвапы на свитчи
 
-<img src="images/prep-3.png" alt="Hot-swap сокеты установлены на свитчи в корпусе" />
+![image](images/hpd_hw_bg_05.png)
 
 </details>
 
