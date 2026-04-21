@@ -45,9 +45,21 @@
 
 ## Порядок сборки
 
-Ниже будет собираться пошаговое руководство по сборке.  
-У каждого пункта можно раскрыть описание и посмотреть изображения.
+{{% steps %}}
 
+### Step 1
+
+This is the first step.
+
+### Step 2
+
+This is the second step.
+
+#### Step subheading {class="no-step-marker"}
+
+This will not be counted as a step.
+
+{{% /steps %}}
 <details>
 <summary><strong>1. Подготовка перед пайкой</strong></summary>
 
