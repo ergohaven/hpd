@@ -1,6 +1,6 @@
 # High Plains Drifter v2 — руководство по ручной сборке клавиатуры
 
-![HPDv2_Handwired](images/hpd_hw_bg_00.png)
+![image](images/hpd_hw_bg_00.png)
 
 ## Перед началом
 
@@ -19,6 +19,7 @@
 ---
 
 ## Компоненты
+
 | Название | Количество (шт) |
 | --- | ---: |
 | RP2040 Zero MCU | 2 |
@@ -32,6 +33,8 @@
 | M3x4 Screws | 10 |
 | 3M bumpons (8mm) | 4 |
 | Провод одножильный | ~1 метр |
+
+![image](images/hpd_hw_bg_01.png)
 
 ---
 
