@@ -10,8 +10,8 @@
 
 ## Полезные ссылки
 
-- [Корпус HPDv2 для 3D-печати (STL)](handwired/step)
-- [Модель корпуса HPDv2 для редактирования (STEP)](handwired/stl)
+- [Корпус HPDv2 для 3D-печати (STL)](stl)
+- [Модель корпуса HPDv2 для редактирования (STEP)](step)
 - [Электронная схема HPDv2](https://oshwlab.com/yuriiq/hpdv2)
 - [Прошивка](https://github.com/ergohaven/keymap_hub)
 - [Документация QMK](https://docs.ergohaven.xyz/qmk/)
