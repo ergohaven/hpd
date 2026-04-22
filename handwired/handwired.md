@@ -48,9 +48,16 @@
 
 ## Порядок сборки
 
-<details>
-<summary><strong>1. Подготовка корпуса, установка свитчей и хотсвапов</strong></summary>
+### Шаг 1. Подготовка корпуса, установка свитчей и хотсвапов
 
+Распечатываем и подготовим корпус (ссылка), вплавим металлические вставки M3x5 и установим свитчи с Hotswap сокетами
+
+![image](images/hpd_hw_bg_01_0.png)
+
+<details>
+<summary><strong>Подробное описание</strong></summary>
+   
+<details><summary><strong>Подготовка корпуса</strong></summary>
 Первым делом нужно распечатать корпус клавиатуры и очистить его от поддержек
 
 ![image](images/hpd_hw_bg_02.png)
@@ -67,6 +74,7 @@
 
 ![image](images/hpd_hw_bg_05.png)
 
+</details>
 </details>
 
 <details>
