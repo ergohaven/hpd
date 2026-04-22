@@ -107,7 +107,7 @@
 
 ### Шаг 3. Пайка столбцов и строк
 
-![image](images/hpd_hw_bg_02_1.png)
+![image](images/hpd_hw_bg_0.png)
 
 <details>
 <summary><strong>Подробное описание</strong></summary>
@@ -120,7 +120,7 @@
 
 ### Шаг 4. Сборка холдеров (контроллеров)
 
-![image](images/hpd_hw_bg_02_1.png)
+![image](images/hpd_hw_bg_0.png)
 
 <details>
 <summary><strong>Подробное описание</strong></summary>
@@ -133,7 +133,7 @@
 
 ### Шаг 5. Пайка холдеров (контроллеров) к половинкам клавиатуры
 
-![image](images/hpd_hw_bg_02_1.png)
+![image](images/hpd_hw_bg_0.png)
 
 <details>
 <summary><strong>Подробное описание</strong></summary>
@@ -146,7 +146,7 @@
 
 ### Шаг 6. Финальные действия
 
-![image](images/hpd_hw_bg_02_1.png)
+![image](images/hpd_hw_bg_0.png)
 
 <details>
 <summary><strong>Подробное описание</strong></summary>
