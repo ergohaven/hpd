@@ -57,24 +57,24 @@
 <details>
 <summary><strong>Подробное описание</strong></summary>
    
-<details><summary><strong>Подготовка корпуса</strong></summary>
-Первым делом нужно распечатать корпус клавиатуры и очистить его от поддержек
+  <details><summary><strong>Подготовка корпуса</strong></summary>
+  Первым делом нужно распечатать корпус клавиатуры и очистить его от поддержек
 
-![image](images/hpd_hw_bg_02.png)
+  ![image](images/hpd_hw_bg_02.png)
 
-Далее, вплавим латунные вставки (по 5 штук на каждую половинку)
+  Далее, вплавим латунные вставки (по 5 штук на каждую половинку)
 
-![image](images/hpd_hw_bg_03.png)
+  ![image](images/hpd_hw_bg_03.png)
 
-Установим свитчи в половинки
+  Установим свитчи в половинки
 
-![image](images/hpd_hw_bg_04.png)
+  ![image](images/hpd_hw_bg_04.png)
 
-Вставим хотсвапы на свитчи
+  Вставим хотсвапы на свитчи
 
-![image](images/hpd_hw_bg_05.png)
+  ![image](images/hpd_hw_bg_05.png)
 
-</details>
+  </details>
 </details>
 
 ### Шаг 2. Подготовка к пайке хотсвап сокетов
