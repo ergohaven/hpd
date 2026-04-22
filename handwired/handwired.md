@@ -155,7 +155,7 @@
 
 </details>
 
-[//]: # <details>
+<details>
 <summary><strong>2. Подготовка к пайке хотсвап сокетов</strong></summary>
 
 ![image](images/hpd_hw_bg_03.png)
