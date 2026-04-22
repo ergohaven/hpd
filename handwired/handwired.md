@@ -107,7 +107,22 @@
 
 ### Шаг 3. Пайка столбцов и строк
 
+Соединим столбцы, для этого припаиваем проводки к одному из выводов хотсвап сокета
+
+![image](images/hpd_hw_bg_03_0.png)
+![image](images/hpd_hw_bg_03_1.png)
+
+<details>
+<summary><strong>Подробное описание</strong></summary>
+
 ![image](images/hpd_hw_bg_0.png)
+
+</details>
+
+Далее, соединим строки, для этого припаиваем диоды 1N4148 анодом ко второму выводу хотсвап сокета и припаиваем общий провод от каждой строки
+
+![image](images/hpd_hw_bg_04_0.png)
+![image](images/hpd_hw_bg_04_1.png)
 
 <details>
 <summary><strong>Подробное описание</strong></summary>
