@@ -54,27 +54,6 @@
 
 ![image](images/hpd_hw_bg_01_0.png)
 
-<details>
-<summary><strong>Подробное описание</strong></summary>
-   
-Первым делом нужно распечатать корпус клавиатуры и очистить его от поддержек
-
-![image](images/hpd_hw_bg_02.png)
-
-Далее, вплавим латунные вставки (по 5 штук на каждую половинку)
-
-![image](images/hpd_hw_bg_03.png)
-
-Установим свитчи в половинки
-
-![image](images/hpd_hw_bg_04.png)
-
-Вставим хотсвапы на свитчи
-
-![image](images/hpd_hw_bg_05.png)
-
-</details>
-
 ---
 
 ### Шаг 2. Подготовка к пайке хотсвап сокетов
@@ -85,23 +64,9 @@
 
 ![image](images/hpd_hw_bg_02_1.png)
 
-<details>
-<summary><strong>Подробное описание</strong></summary>
-
-![image](images/hpd_hw_bg_0.png)
-
-</details>
-
 В данном руководстве столбцы соединим при помощи проводков, для этого подготовим их определенным способом (но вы можете выбрать другой способ соединения, например, использовать остатки от ножек диодов)
 
 ![image](images/hpd_hw_bg_02_0.png)
-
-<details>
-<summary><strong>Подробное описание</strong></summary>
-
-![image](images/hpd_hw_bg_0.png)
-
-</details>
 
 ---
 
@@ -112,24 +77,10 @@
 ![image](images/hpd_hw_bg_03_0.png)
 ![image](images/hpd_hw_bg_03_1.png)
 
-<details>
-<summary><strong>Подробное описание</strong></summary>
-
-![image](images/hpd_hw_bg_0.png)
-
-</details>
-
 Далее, соединим строки, для этого припаиваем диоды 1N4148 анодом ко второму выводу хотсвап сокета и припаиваем общий провод от каждой строки
 
 ![image](images/hpd_hw_bg_03_2.png)
 ![image](images/hpd_hw_bg_03_3.png)
-
-<details>
-<summary><strong>Подробное описание</strong></summary>
-
-![image](images/hpd_hw_bg_0.png)
-
-</details>
 
 ---
 
@@ -144,13 +95,6 @@
 Первым делом припаиваем провода к платам с разъемом USB Type-C (для удобства лучше использовать проводки различных цветов)
 
 ![image](images/hpd_hw_bg_04_0.png)
-
-<details>
-<summary><strong>Подробное описание</strong></summary>
-
-![image](images/hpd_hw_bg_0.png)
-
-</details>
 
 Далее, припаиваем платы с разъемом USB Type-C к платам контроллерам RP2040 Zero
 
@@ -178,13 +122,6 @@
 
 ![image](images/hpd_hw_bg_04_2.png)
 
-<details>
-<summary><strong>Подробное описание</strong></summary>
-
-![image](images/hpd_hw_bg_0.png)
-
-</details>
-
 Теперь припаиваем резиторы на 1 - 100 kOhm к контроллерам RP2040 Zero. Это нужно, чтобы компьютер правильно определил, какую половинку подключили.
 
 - **Левая половинка:** один конец резистора → пин **3V3**, другой → пин **29**
@@ -194,13 +131,6 @@
 - **Правая половинка:** один конец резистора → пин **GND**, другой → пин **29**
 
 ![image](images/hpd_hw_bg_04_4.png)
-
-<details>
-<summary><strong>Подробное описание</strong></summary>
-
-![image](images/hpd_hw_bg_0.png)
-
-</details>
 
 ---
 
@@ -241,13 +171,6 @@
 
 ![image](images/hpd_hw_bg_05_1.png)
 ![image](images/hpd_hw_bg_05_2.png)
-
-<details>
-<summary><strong>Подробное описание</strong></summary>
-
-![image](images/hpd_hw_bg_0.png)
-
-</details>
 
 ---
 
