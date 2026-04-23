@@ -1,4 +1,4 @@
-# High Plains Drifter v2 — handwired keyboard assembly guide
+# High Plains Drifter v2 — handwired keyboard build guide
 
 ![image](images/hpd_hw_bg_00.png)
 
