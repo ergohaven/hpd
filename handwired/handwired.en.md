@@ -14,7 +14,7 @@ This guide describes how to build the High Plains Drifter v2 keyboard without PC
 - [HPD v2 case model for editing (STEP)](step)
 - [HPD v2 circuit schematic](https://oshwlab.com/yuriiq/hpdv2)
 - [Firmware](https://github.com/ergohaven/keymap_hub)
-- [QMK documentation](https://docs.ergohaven.xyz/qmk/)
+- [QMK documentation](https://docs.ergohaven.xyz/en/qmk/)
 
 ---
 
@@ -183,7 +183,7 @@ First, flash both halves:
 - copy the firmware file for **HPD v2 (no modules)** from [keymap_hub](https://github.com/ergohaven/keymap_hub) to the root of the RPI-RP2 folder
 - repeat the same steps with the other half
 
-After flashing, connect the halves with a USB-C cable and connect them to the PC, open [Vial](https://eh.works/vial), and check both halves in the **Matrix tester**.
+After flashing, connect the halves with a USB-C cable and connect them to the PC, open [Vial](https://eh.industries/vial), and check both halves in the **Matrix tester**.
 
 ![image](images/hpd_hw_bg_06_00.png)
 
