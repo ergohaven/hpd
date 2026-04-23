@@ -262,10 +262,12 @@
 Если тест прошел успешно, то собираем половинки дальше. В распечатанный корпус холдера вставляем платы контроллера и бокового USB-C разъема на левой половинке
 
 ![image](images/hpd_hw_bg_06_1.png)
+![image](images/hpd_hw_bg_06_2.png)
 
 и на правой половинке
 
-![image](images/hpd_hw_bg_06_2.png)
+![image](images/hpd_hw_bg_06_3.png)
+![image](images/hpd_hw_bg_06_4.png)
 
 
 <details>
