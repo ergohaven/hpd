@@ -35,7 +35,7 @@
 | Провод одножильный | ~1 метр |
 
 <details>
-<summary><strong>Описание компонентов</strong></summary>
+<summary><strong>Внешний вид компонентов</strong></summary>
   
 | Компонент | Внешний вид |
 | --- | --- |
