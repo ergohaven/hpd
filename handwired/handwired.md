@@ -39,7 +39,7 @@
   
 | Компонент | Внешний вид |
 | --- | --- |
-| RP2040 Zero MCU | ![image](images/bom_rp2040zero.png) |
+| RP2040 Zero MCU | <img src="images/bom_rp2040zero.png" width="400" height=""> |
 | USB Type-C daughterboard: 1.6mm thick | ![image](images/bom_usb.png) |
 | 1N4148 Diodes | ![image](images/bom_diodes.png) |
 | 1 - 100 kOhm resistors | ![image](images/bom_resistors.png) |
@@ -47,7 +47,7 @@
 | M3x5 Inserts | ![image](images/bom_m3x5_insert.png) |
 | M3x4 Screws | ![image](images/bom_m3x4_screws.png) |
 | 3M bumpons (8mm) | ![image](images/bom_bumpons.png) |
-<img src="images/bom_rp2040zero.png" width="200" height="">
+
 </details>
 ---
 
