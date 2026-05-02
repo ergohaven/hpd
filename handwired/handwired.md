@@ -36,7 +36,19 @@
 
 <details>
 <summary><strong>Подробное описание компонентов</strong></summary>
-
+| Название | Внешний вид |
+| --- | ---: |
+| RP2040 Zero MCU | 2 |
+| USB Type-C daughterboard: 1.6mm thick | 2 |
+| 1N4148 Diodes | 60 |
+| 1 - 100 kOhm resistors | 2 |
+| Hotswap sockets | 60 |
+| Switch | 60 |
+| Keycaps | 60 |
+| M3x5 Inserts | 10 |
+| M3x4 Screws | 10 |
+| 3M bumpons (8mm) | 4 |
+| Провод одножильный | ~1 метр |
 ![image](images/hpd_hw_bg_01_0.png)
 
 </details>
