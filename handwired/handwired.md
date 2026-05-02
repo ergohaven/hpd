@@ -49,6 +49,7 @@
 | 3M bumpons (8mm) | <img src="images/bom_bumpons.png" width="400" height=""> |
 
 </details>
+
 ---
 
 ## Инструменты и расходные материалы
