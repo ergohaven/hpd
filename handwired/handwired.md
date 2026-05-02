@@ -34,7 +34,7 @@
 | 3M bumpons (8mm) | 4 |
 
 <details>
-<summary><strong>Внешний вид компонентов</strong></summary>
+<summary><strong>➕ Внешний вид компонентов</strong></summary>
   
 | Компонент | Внешний вид |
 | --- | --- |
@@ -74,7 +74,7 @@
 ![image](images/hpd_hw_bg_01_0.png)
 
 <details>
-<summary><strong>Подробное описание</strong></summary>
+<summary><strong>➕ Подробное описание</strong></summary>
 
 Корпус очищаем от поддержек
 ![image](images/hpd_hw_bg_01_1.png)
@@ -112,7 +112,7 @@
 ![image](images/hpd_hw_bg_02_1.png)
 
 <details>
-<summary><strong>Подробное описание</strong></summary>
+<summary><strong>➕ Подробное описание</strong></summary>
   
 Со стороны анода загнем ножку примерно на 90 градусов
 > ⚠️ У диода черной полоской обозначен катод, анод - не маркируется на корпусе
@@ -129,7 +129,7 @@
 ![image](images/hpd_hw_bg_02_0.png)
 
 <details>
-<summary><strong>Подробное описание</strong></summary>
+<summary><strong>➕ Подробное описание</strong></summary>
 
 Заготовим 12 проводков по ~20 сантиметров, 8 из них подготовим следующим образом:
 - Зачистим изоляцию на конце проводка на ~15 миллиметров
@@ -159,7 +159,7 @@
 ![image](images/hpd_hw_bg_03_1.png)
 
 <details>
-<summary><strong>Подробное описание</strong></summary>
+<summary><strong>➕ Подробное описание</strong></summary>
 
 > 💡 Для удобства нужно выбрать одну сторону у хотсвапов для соединения столбцов и предварительно залудить контакты хотсвапа припоем.
 > ⚠️ Отсчёт столбцов начинается со стороны отверстия для USB
