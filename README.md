@@ -23,7 +23,11 @@ This keyboard was designed with FDM printing in mind, the goal was to create a p
 ## This repo contains all files related to this keyboard
 PCB and schematic can be found [here](https://oshwlab.com/yuriiq/hpdv2)
 
-### Build guide
+### Build guide (handwired)
+- [English](https://github.com/ergohaven/hpd/blob/main/handwired/handwired.en.md)
+- [Russian](https://github.com/ergohaven/hpd/blob/main/handwired/handwired.md)
+
+### Build guide (PCB is required)
 - [English](https://github.com/ergohaven/hpd/blob/main/build_guide/build_guide_en.md)
 - [Russian](https://github.com/ergohaven/hpd/blob/main/build_guide/build_guide_ru.md)
 
