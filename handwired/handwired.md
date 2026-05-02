@@ -34,6 +34,12 @@
 | 3M bumpons (8mm) | 4 |
 | Провод одножильный | ~1 метр |
 
+<details>
+<summary><strong>Подробное описание компонентов</strong></summary>
+
+![image](images/hpd_hw_bg_01_0.png)
+
+</details>
 ---
 
 ## Инструменты и расходные материалы
