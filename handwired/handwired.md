@@ -36,10 +36,11 @@
 
 <details>
 <summary><strong>Подробное описание компонентов</strong></summary>
+  
 | Название | Внешний вид |
 | --- | ---: |
-| RP2040 Zero MCU | 2 |
-| USB Type-C daughterboard: 1.6mm thick | 2 |
+| RP2040 Zero MCU | ![image](images/bom_rp2040zero.png) |
+| USB Type-C daughterboard: 1.6mm thick | ![image](images/bom_usb.png) |
 | 1N4148 Diodes | 60 |
 | 1 - 100 kOhm resistors | 2 |
 | Hotswap sockets | 60 |
