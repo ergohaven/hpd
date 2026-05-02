@@ -84,7 +84,7 @@
 
 ![image](images/hpd_hw_bg_01_2.png)
 
-Вплавляем металлические свтавки паяльником
+Вплавляем металлические вставки паяльником
 
 ![image](images/hpd_hw_bg_01_3.png)
 ![image](images/hpd_hw_bg_01_4.png)
