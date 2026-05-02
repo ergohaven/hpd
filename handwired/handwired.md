@@ -47,7 +47,7 @@
 | M3x5 Inserts | ![image](images/bom_m3x5_insert.png) |
 | M3x4 Screws | ![image](images/bom_m3x4_screws.png) |
 | 3M bumpons (8mm) | ![image](images/bom_bumpons.png) |
-<img src="images/bom_rp2040zero.png" width="200" height="100">
+<img src="images/bom_rp2040zero.png" width="200" height="">
 </details>
 ---
 
