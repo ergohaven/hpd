@@ -76,6 +76,8 @@
 <details>
 <summary><strong>➕ Подробное описание</strong></summary>
 
+
+
 Корпус очищаем от поддержек
 
 ![image](images/hpd_hw_bg_01_1.png)
