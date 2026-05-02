@@ -6,7 +6,7 @@
 
 This guide describes how to build the High Plains Drifter v2 keyboard without PCBs and without complex soldering. It is intended for users who want to assemble the curved HPD v2 split keyboard at home with minimal cost for parts and tools.
 
-> ⚠️ This guide does not cover the assembly of modules for HPD v2, because handwired mounting of components and connectors is not reliable for modules.
+> ⚠️ This guide does not cover assembly of modules for HPD v2, because handwired mounting of components and connectors is not reliable for modules.
 
 ## Useful links
 
@@ -24,13 +24,13 @@ This guide describes how to build the High Plains Drifter v2 keyboard without PC
 | --- | ---: |
 | RP2040 Zero MCU | 2 |
 | USB Type-C daughterboard: 1.6mm thick | 2 |
-| 1N4148 Diodes | 60 |
+| 1N4148 diodes | 60 |
 | 1 - 100 kOhm resistors | 2 |
 | Hotswap sockets | 60 |
-| Switch | 60 |
+| Switches | 60 |
 | Keycaps | 60 |
-| M3x5 Inserts | 10 |
-| M3x4 Screws | 10 |
+| M3x5 inserts | 10 |
+| M3x4 screws | 10 |
 | 3M bumpons (8mm) | 4 |
 | Solid-core wire | ~1 meter |
 
@@ -50,7 +50,7 @@ This guide describes how to build the High Plains Drifter v2 keyboard without PC
 
 ### Step 1. Prepare the case, install switches and hotswaps
 
-Print and prepare the [case](stl), heat-set the M3x5 metal inserts, and install the switches with Hotswap sockets.
+Print and prepare the [case](stl), heat-set the M3x5 metal inserts, and install the switches with hotswap sockets.
 
 ![image](images/hpd_hw_bg_01_0.png)
 
@@ -86,7 +86,7 @@ Next, connect the rows by soldering 1N4148 diodes with the anode to the second p
 
 ### Step 4. Assemble the holders (controllers)
 
-To assemble the holder (controller), we need two RP2040 Zero controllers, two USB Type-C daughterboards, two 1 - 100 kOhm resistors, and some wires.
+To assemble the holder (controller), we need two RP2040 Zero boards, two USB Type-C daughterboards, two 1 - 100 kOhm resistors, and some wires.
 
 Connect everything with wires according to the diagram.
 
@@ -194,7 +194,7 @@ After flashing, connect the halves with a USB-C cable and connect them to the PC
   Check the board for short circuits, inspect the 3V3, 5V and GND pins. Also check the integrity of the USB connector and its solder joints.
 
 - **An entire column does not work**
-  There is no connection between the column and the RP-ZERO. Continuity-test or visually inspect the wire from the left contact of the hot-swap socket to the required controller pin.
+  There is no connection between the column and the RP-ZERO. Continuity-test or visually inspect the wire from the left contact of the hotswap socket to the required controller pin.
 
 - **A row or part of a row does not work**
   The problem is with the diodes. Check the soldering, one or more diodes may be reversed or not fully soldered.
