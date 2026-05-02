@@ -35,7 +35,8 @@
 
 <details>
 <summary><strong>➕ Внешний вид компонентов</strong></summary>
-  
+
+
 | Компонент | Внешний вид |
 | --- | --- |
 | RP2040 Zero MCU | <img src="images/bom_rp2040zero.png" width="400" height=""> |
@@ -75,6 +76,7 @@
 
 <details>
 <summary><strong>➕ Подробное описание</strong></summary>
+
 
 Корпус очищаем от поддержек
 ![image](images/hpd_hw_bg_01_1.png)
