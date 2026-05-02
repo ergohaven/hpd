@@ -21,7 +21,7 @@
 ## Компоненты
 
 | Название | Количество (шт) |
-| --- | ---: |
+| --- |---: |
 | RP2040 Zero MCU | 2 |
 | USB Type-C daughterboard: 1.6mm thick | 2 |
 | 1N4148 Diodes | 60 |
