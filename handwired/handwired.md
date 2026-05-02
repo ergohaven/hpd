@@ -20,10 +20,10 @@
 
 ## Компоненты
 
-| Название | Количество (шт) | Внешний вид |
-| --- | --- | ---: |
-| RP2040 Zero MCU | 2 | ![image](images/bom_rp2040zero.png) |
-| USB Type-C daughterboard: 1.6mm thick | 2 | ![image](images/bom_usb.png) |
+| Название | Количество (шт) |
+| --- | ---: |
+| RP2040 Zero MCU | 2 |
+| USB Type-C daughterboard: 1.6mm thick | 2 |
 | 1N4148 Diodes | 60 |
 | 1 - 100 kOhm resistors | 2 |
 | Hotswap sockets | 60 |
@@ -37,20 +37,16 @@
 <details>
 <summary><strong>Подробное описание компонентов</strong></summary>
   
-| Название | Внешний вид |
+| Компонент | Внешний вид |
 | --- | ---: |
 | RP2040 Zero MCU | ![image](images/bom_rp2040zero.png) |
 | USB Type-C daughterboard: 1.6mm thick | ![image](images/bom_usb.png) |
-| 1N4148 Diodes | 60 |
-| 1 - 100 kOhm resistors | 2 |
-| Hotswap sockets | 60 |
-| Switch | 60 |
-| Keycaps | 60 |
-| M3x5 Inserts | 10 |
-| M3x4 Screws | 10 |
-| 3M bumpons (8mm) | 4 |
-| Провод одножильный | ~1 метр |
-![image](images/hpd_hw_bg_01_0.png)
+| 1N4148 Diodes | ![image](images/bom_diodes.png) |
+| 1 - 100 kOhm resistors | ![image](images/bom_resistors.png) |
+| Hotswap sockets | ![image](images/bom_hotswap.png) |
+| M3x5 Inserts | ![image](images/bom_m3x5_insert.png) |
+| M3x4 Screws | ![image](images/bom_m3x4_screws.png) |
+| 3M bumpons (8mm) | ![image](images/bom_bumpons.png) |
 
 </details>
 ---
