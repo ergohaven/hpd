@@ -31,7 +31,7 @@
 | Keycaps | 60 |
 | M3x5 Inserts | 10 |
 | M3x4 Screws | 10 |
-| 3M bumpons (8mm) | 4 |
+| 3M bumpons (8mm) | 10 |
 
 <details>
 <summary><strong>➕ Внешний вид компонентов</strong></summary>
