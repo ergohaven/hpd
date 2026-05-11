@@ -104,11 +104,8 @@ PCB and schematic can be found [here](https://oshwlab.com/yuriiq/hpdv2)
 The files in this repository are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 ## Firmware
-- [Pre-compiled files][1]
-- [Source code][2]
-
-[1]: https://github.com/ergohaven/keymap_hub
-[2]: https://github.com/ergohaven/vial-qmk/tree/vial/keyboards/ergohaven
+- [Pre-compiled files](https://github.com/ergohaven/keymap_hub)
+- [Source code](https://github.com/ergohaven/vial-qmk)
 
 ## Availability
 The complete keyboard (not a diy kit!) is available for purchase at [eh.industries](https://eh.industries/)
