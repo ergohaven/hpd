@@ -50,7 +50,7 @@ PCB and schematic can be found [here](https://oshwlab.com/yuriiq/hpdv2)
 | M3x5 Inserts | 10 |
 | M3x4 Screws | 10 |
 | Magnets (5х10х2mm) | 4 |
-| 3M bumpons (8mm) | 4 |
+| 3M bumpons (8mm) | 10 |
 
 #### Encoder module
 | Components | Quantity (pcs) |
